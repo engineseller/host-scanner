@@ -1,5 +1,5 @@
 # Host Scanner
-Scan hosts in your network that are live
+Scan hosts in your network
 
 ## How to use?
 Open terminal and run following commands
