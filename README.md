@@ -13,10 +13,10 @@ Open terminal and run following commands
 >> cd host-scanner
 ```
 ```
->> chmod 755 ./hostScanner.sh
+>> chmod 755 ./hostScanner.py
 ```
 ```
->> ./hostScanner.sh -r
+>> ./hostScanner.py -r
 ```
 
 ## Run command
