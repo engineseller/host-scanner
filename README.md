@@ -22,5 +22,5 @@ Open terminal and run following commands
 ## Run command
 Options -s startip and -e endip
 ```
->> python host_scanner.py -s 192.168.1.0 -e 192.168.1.225
+>> python hostScanner.py -s 192.168.1.0 -e 192.168.1.225
 ```
