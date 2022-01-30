@@ -85,6 +85,9 @@ except KeyboardInterrupt:
 except IndexError:
     print("\nExiting... Index Error")
     sys.exit()
+except socket.error:
+    print("Couldn't connect to the server.")
+    sys.exit()
 
 end_time = datetime.now()
 total_time = end_time - start_time
