@@ -20,4 +20,6 @@ Open terminal and run following commands
 ```
 
 ## Simple Options
--s <startip> -e <endip> -p <port>
+```
+>> python3 hostScanner.py -s <startip> -e <endip> -p <port>
+```
