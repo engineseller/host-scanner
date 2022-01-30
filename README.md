@@ -16,11 +16,8 @@ Open terminal and run following commands
 >> chmod 755 ./hostScanner.py
 ```
 ```
->> ./hostScanner.py -r
+>> python3 hostScanner.py -s 192.168.1.0 -e 192.168.1.256 -p 135
 ```
 
-## Run command
-Options -s startip and -e endip
-```
->> python hostScanner.py -s 192.168.1.0 -e 192.168.1.225
-```
+## Simple Options
+-s <startip> -e <endip> -p <port>
